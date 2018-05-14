@@ -1,0 +1,9 @@
+/toeic-core-dao/*.iml
+/toeic-core-dao-impl/*.iml
+/toeic-core-data/*.iml
+/toeic-core-dto/*.iml
+/toeic-core-service/*.iml
+/toeic-core-service-impl/*.iml
+/toeic-core-utils/*.iml
+/toeic-web/*.iml
+/toeic-web-logic/*.iml
